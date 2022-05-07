@@ -1,0 +1,11 @@
+{
+    "name": "mohamedgouda98/composer-test",
+    "description": "A hello world composer private package.",
+    "autoload": {
+        "psr-4": {
+            "mohamedgouda98\\ComposerTest\\": "src/"
+        }
+    },
+    "minimum-stability": "dev",
+    "prefer-stable": true
+}
